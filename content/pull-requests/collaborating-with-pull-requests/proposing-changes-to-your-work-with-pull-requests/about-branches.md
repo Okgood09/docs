@@ -1,4 +1,4 @@
----
+---https://github.com/users/Okgood09/emails/181881333/confirm_verification/472120?via_launch_code_email=true
 title: About branches
 intro: 'Use a branch to isolate development work without affecting other branches in the repository. Each repository has one default branch, and can have multiple other branches. You can merge a branch into another branch using a pull request.'
 redirect_from:
